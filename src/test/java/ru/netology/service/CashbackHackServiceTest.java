@@ -33,7 +33,7 @@ public class CashbackHackServiceTest {
     }
 
     @Test
-    public void shouldAdvice0() {
+    public void shouldTestZero() {
 
         CashbackHackService cashback = new CashbackHackService();
 
